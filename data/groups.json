@@ -1,0 +1,509 @@
+[
+  {
+    "id": "remote-tech-career-salary-hub-reddit-1",
+    "title": "r/cscareerquestions Tech Hiring & Salary",
+    "platform": "Reddit",
+    "category": "Careers",
+    "memberCount": "1,200,000+ members",
+    "description": "Resume reviews, FAANG interview preparation, salary negotiation, and software career progressions.",
+    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
+    "tags": [
+      "careers",
+      "salary",
+      "interviews",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-2",
+    "title": "r/remotework Global Work Culture",
+    "platform": "Reddit",
+    "category": "Remote Work",
+    "memberCount": "180,000+ members",
+    "description": "International remote job opportunities, cross-border tax considerations, and asynchronous productivity.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "global",
+      "async",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-3",
+    "title": "r/digitalnomad Borderless Living & Visas",
+    "platform": "Reddit",
+    "category": "Digital Nomad",
+    "memberCount": "2,200,000+ members",
+    "description": "Nomad visa regulations, tax residency treaties, international health insurance, and global tech hubs.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "visas",
+      "taxes",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-4",
+    "title": "r/workfromhome Home Office & Ergonomics",
+    "platform": "Reddit",
+    "category": "WFH",
+    "memberCount": "160,000+ members",
+    "description": "Remote workstation ergonomics, home office hardware, stipend optimization, and work-life balance.",
+    "joinUrl": "https://www.reddit.com/r/workfromhome/",
+    "tags": [
+      "wfh",
+      "ergonomics",
+      "hardware",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-5",
+    "title": "r/leetcode Algorithmic Interview Mastery",
+    "platform": "Reddit",
+    "category": "LeetCode",
+    "memberCount": "390,000+ members",
+    "description": "Data structures and algorithms, dynamic programming, system design round preparation, and coding contests.",
+    "joinUrl": "https://www.reddit.com/r/leetcode/",
+    "tags": [
+      "leetcode",
+      "algorithms",
+      "interviews",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-6",
+    "title": "r/ExperiencedDevs Senior Staff Strategy",
+    "platform": "Reddit",
+    "category": "Senior Devs",
+    "memberCount": "230,000+ members",
+    "description": "Discussions for senior, staff, and principal software engineers on engineering leadership and technical architecture.",
+    "joinUrl": "https://www.reddit.com/r/ExperiencedDevs/",
+    "tags": [
+      "experienced",
+      "leadership",
+      "senior",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-7",
+    "title": "r/ITCareerQuestions Infrastructure Paths",
+    "platform": "Reddit",
+    "category": "IT Careers",
+    "memberCount": "410,000+ members",
+    "description": "Certifications (AWS/Cisco), cloud engineering roles, DevOps transition roadmaps, and salary bands.",
+    "joinUrl": "https://www.reddit.com/r/ITCareerQuestions/",
+    "tags": [
+      "itcareers",
+      "cloud",
+      "devops",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-8",
+    "title": "r/freelance Contracting & Retainers",
+    "platform": "Reddit",
+    "category": "Freelance",
+    "memberCount": "440,000+ members",
+    "description": "Hourly billable rates, fixed-price client retainers, contract negotiation, and invoicing platforms.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "contracting",
+      "retainers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-forum-9",
+    "title": "Nomad List Global Tech Cities Forum",
+    "platform": "Forum",
+    "category": "Nomad List",
+    "memberCount": "70,000+ members",
+    "description": "Cost of living indices, internet speed ratings, nomad community meetups, and safety rankings worldwide.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "cities",
+      "speed",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-forum-10",
+    "title": "Hacker News Who's Hiring & Careers",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "Monthly 'Who is hiring?' threads featuring transparent salary bands, equity packages, and remote policies.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "ycombinator",
+      "hiring",
+      "jobs",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-11",
+    "title": "The Programmer's Hangout Career Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Collaborative server with dedicated resume critique, mock interview channels, and salary discussions.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "resume",
+      "interviews",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-12",
+    "title": "Devcord Tech Careers & Portfolio Discord",
+    "platform": "Discord",
+    "category": "Devcord",
+    "memberCount": "75,000+ members",
+    "description": "Peer reviews of developer portfolios, GitHub profiles, and job hunt accountability groups.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devcord",
+      "portfolio",
+      "jobs",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-13",
+    "title": "r/personalfinance Stock Grants & 401k",
+    "platform": "Reddit",
+    "category": "Compensation",
+    "memberCount": "19,000,000+ members",
+    "description": "Evaluating equity grants (RSUs, ISOs), tax withholding strategies, 83(b) elections, and wealth management.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "compensation",
+      "rsus",
+      "equity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-14",
+    "title": "r/financialindependence FIRE & Equity Comp",
+    "platform": "Reddit",
+    "category": "FIRE",
+    "memberCount": "2,200,000+ members",
+    "description": "Leveraging high remote software engineering salaries to achieve financial independence and early retirement.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "wealth",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-forum-15",
+    "title": "Bogleheads Career Savings Forum",
+    "platform": "Forum",
+    "category": "Bogleheads",
+    "memberCount": "110,000+ members",
+    "description": "Low-cost index fund investing, asset allocation principles, and financial planning for high earners.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "index-funds",
+      "wealth",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-16",
+    "title": "Capital Finance Discord",
+    "platform": "Discord",
+    "category": "Finance",
+    "memberCount": "40,000+ members",
+    "description": "Server discussing currency exchange risks, multi-currency banking, and international wire fees.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "finance",
+      "banking",
+      "fx",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-17",
+    "title": "Pegasus Founders & Freelancers Discord",
+    "platform": "Discord",
+    "category": "Entrepreneurs",
+    "memberCount": "45,000+ members",
+    "description": "High-earning remote contractors sharing lead generation strategies, client vetting, and pricing models.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "freelance",
+      "contracts",
+      "pricing",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-18",
+    "title": "r/programming Global Engineering Trends",
+    "platform": "Reddit",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Software development news, tech stack adoption curves, and international engineering market demand.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "programming",
+      "trends",
+      "engineering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-reddit-19",
+    "title": "r/webdev Remote Fullstack Opportunities",
+    "platform": "Reddit",
+    "category": "Web Dev",
+    "memberCount": "2,200,000+ members",
+    "description": "Discussions on remote job boards, interview take-home tests, freelance rates, and contracting platforms.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "remote-jobs",
+      "rates",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-20",
+    "title": "Reactiflux Remote React Developers Discord",
+    "platform": "Discord",
+    "category": "Reactiflux",
+    "memberCount": "210,000+ members",
+    "description": "Job board channel with hundreds of verified remote React, React Native, and fullstack positions posted daily.",
+    "joinUrl": "https://discord.gg/reactiflux",
+    "tags": [
+      "react",
+      "job-board",
+      "remote",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-21",
+    "title": "Next.js Fullstack Remote Devs Discord",
+    "platform": "Discord",
+    "category": "Next.js",
+    "memberCount": "110,000+ members",
+    "description": "Connect with startups and enterprises hiring remote Next.js and fullstack TypeScript engineers.",
+    "joinUrl": "https://discord.gg/nextjs",
+    "tags": [
+      "nextjs",
+      "typescript",
+      "hiring",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-22",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python Discord",
+    "memberCount": "430,000+ members",
+    "description": "Official Python Discord with active career advice and job recruitment channels.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "careers",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-23",
+    "title": "Go Language Remote Backend Discord",
+    "platform": "Discord",
+    "category": "Golang",
+    "memberCount": "90,000+ members",
+    "description": "Go developer server featuring high-paying remote backend and systems engineering job postings.",
+    "joinUrl": "https://discord.gg/golang",
+    "tags": [
+      "golang",
+      "backend-jobs",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-24",
+    "title": "TypeScript Remote Developers Discord",
+    "platform": "Discord",
+    "category": "TypeScript",
+    "memberCount": "100,000+ members",
+    "description": "Community for TypeScript engineers, including job postings and remote contracting opportunities.",
+    "joinUrl": "https://discord.gg/typescript",
+    "tags": [
+      "typescript",
+      "remote",
+      "contracts",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-25",
+    "title": "Vue Land Global Developers Discord",
+    "platform": "Discord",
+    "category": "Vue",
+    "memberCount": "65,000+ members",
+    "description": "Community server with active employment channels for international Vue.js and Nuxt developers.",
+    "joinUrl": "https://discord.gg/vue",
+    "tags": [
+      "vue",
+      "nuxt",
+      "employment",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-discord-26",
+    "title": "Tailwind CSS Remote UI Discord",
+    "platform": "Discord",
+    "category": "Tailwind",
+    "memberCount": "80,000+ members",
+    "description": "Frontend designers and UI engineers sharing remote work opportunities and design systems work.",
+    "joinUrl": "https://discord.gg/tailwind",
+    "tags": [
+      "tailwind",
+      "ui-jobs",
+      "remote",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-telegram-27",
+    "title": "Web Developers Hub Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev News",
+    "memberCount": "48,000+ members",
+    "description": "Curated daily developer job posts, remote career guides, and salary benchmark studies.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "telegram",
+      "webdev",
+      "salaries",
+      "jobs"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-telegram-28",
+    "title": "Python Scripts & Daily Tips Telegram",
+    "platform": "Telegram",
+    "category": "Python Tips",
+    "memberCount": "85,000+ members",
+    "description": "Technical code snippets, coding interview tips, and modern engineering practices.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "python",
+      "interview-tips"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-telegram-29",
+    "title": "Bloomberg Global Tech Salaries & Macro",
+    "platform": "Telegram",
+    "category": "Macro",
+    "memberCount": "120,000+ members",
+    "description": "Macro economic trends, tech industry layoff statistics, and global labor market dynamics.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "telegram",
+      "macro",
+      "labor-market",
+      "bloomberg"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "remote-tech-career-salary-hub-telegram-30",
+    "title": "TechCrunch Remote Work & Tech Funding",
+    "platform": "Telegram",
+    "category": "Tech News",
+    "memberCount": "65,000+ members",
+    "description": "Daily news on high-growth tech companies hiring remotely and raising Series A through C capital.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "hiring",
+      "funding",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
