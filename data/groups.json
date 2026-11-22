@@ -1,5 +1,24 @@
 [
   {
+    "id": "remote-tech-career-salary-hub-reddit-5",
+    "title": "r/leetcode Algorithmic Interview Mastery",
+    "platform": "Reddit",
+    "category": "LeetCode",
+    "memberCount": "390,000+ members",
+    "description": "Data structures and algorithms, dynamic programming, system design round preparation, and coding contests.",
+    "joinUrl": "https://www.reddit.com/r/leetcode/",
+    "tags": [
+      "leetcode",
+      "algorithms",
+      "interviews",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "remote-tech-career-salary-hub-reddit-4",
     "title": "r/workfromhome Home Office & Ergonomics",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -416,24 +435,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "remote-tech-career-salary-hub-reddit-5",
-    "title": "r/leetcode Algorithmic Interview Mastery",
-    "platform": "Reddit",
-    "category": "LeetCode",
-    "memberCount": "390,000+ members",
-    "description": "Data structures and algorithms, dynamic programming, system design round preparation, and coding contests.",
-    "joinUrl": "https://www.reddit.com/r/leetcode/",
-    "tags": [
-      "leetcode",
-      "algorithms",
-      "interviews",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "remote-tech-career-salary-hub-reddit-6",
